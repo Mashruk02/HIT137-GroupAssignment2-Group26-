@@ -1,0 +1,2 @@
+Warmest Station(s): MARBLE-BAR with an average temperature of 37.40°C
+Coolest Station(s): CABRAMURRA-SMHEA-AWS with an average temperature of 13.42°C

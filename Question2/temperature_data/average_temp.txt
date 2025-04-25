@@ -1,0 +1,12 @@
+Month April: 27.57
+Month August: 21.81
+Month December: 31.47
+Month February: 32.12
+Month January: 32.73
+Month July: 20.36
+Month June: 21.03
+Month March: 30.42
+Month May: 23.97
+Month November: 29.82
+Month October: 27.58
+Month September: 24.91
